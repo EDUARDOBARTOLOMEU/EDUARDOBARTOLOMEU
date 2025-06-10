@@ -1,0 +1,23 @@
+
+---
+
+### ✅ Step 4: **Choose a License**
+
+Create a `LICENSE` file. The MIT License is usually best for code. Use [this template](https://choosealicense.com/licenses/mit/).
+
+---
+
+### ✅ Step 5: **Optional but Recommended — Create a Citation File**
+
+Create a file called `CITATION.cff` with this:
+
+```yaml
+cff-version: 1.2.0
+title: Smart Industry AI Framework
+authors:
+  - family-names: Bartolomeu
+    given-names: Eduardo Enoque Nassimba
+    affiliation: Independent Researcher
+date-released: 2025-06-10
+url: https://github.com/eduardo-bartolomeu/smart-industry-ai-framework
+version: 1.0.0
